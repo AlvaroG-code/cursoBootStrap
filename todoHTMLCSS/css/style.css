@@ -1,0 +1,29 @@
+.mastermind {
+    background-color: #FD0C49;
+    color: white;
+    text-align: center;
+}
+
+
+.mastermind80 {
+    background-color: #FD0C49;
+    color: white;
+    opacity: 0.8;
+}
+
+.mastermind60 {
+    background-color: #f54470;
+    color: white;
+    opacity: 0.6;
+}
+
+.secundarias {
+    background-color: #4929e9;
+    color: white;
+}
+
+.secundarias80 {
+    background-color: #4929e9;
+    color: white;
+    opacity: 0.8;
+}
